@@ -1,2 +1,45 @@
-# 648d5a1a-kids-education-code-snippets
-Built for kids education professionals who are tired of context-switching away from your editor to look things up.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Kids &amp; Education Code Snippets And Boilerplate Generator — full
+# Kids & Education Code Snippets and Boilerplate Generator VS Code Extension
+
+> Vscode Extension for Kids Education
+
+Built for kids education professionals who are tired of context-switching away from your editor to look things up.
+
+Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Status bar integration gives you real-time feedback without opening panels.
+
+## What's Included
+
+- Kids & Education Code Snippets And Boilerplate Generator —...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | ✅ | ✅ |
+| Basic snippets | ✅ | ✅ |
+| Standard themes | ✅ | ✅ |
+| AI-powered completions | ❌ | ✅ |
+| Advanced refactoring | ❌ | ✅ |
+| Team sync | ❌ | ✅ |
+| Custom keybindings | ❌ | ✅ |
+| Priority bug fixes | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/3cI9AT12D5wg1de7jCcZI0G)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
